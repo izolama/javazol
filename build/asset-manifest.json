@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.025ba3ab.chunk.css",
+    "main.js": "/static/js/main.90f9ef21.chunk.js",
+    "main.js.map": "/static/js/main.90f9ef21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdf27150.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdf27150.js.map",
+    "static/js/2.2b3bcc7b.chunk.js": "/static/js/2.2b3bcc7b.chunk.js",
+    "static/js/2.2b3bcc7b.chunk.js.map": "/static/js/2.2b3bcc7b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.025ba3ab.chunk.css.map": "/static/css/main.025ba3ab.chunk.css.map",
+    "static/js/2.2b3bcc7b.chunk.js.LICENSE.txt": "/static/js/2.2b3bcc7b.chunk.js.LICENSE.txt",
+    "static/media/countdown.6aa2b8ad.png": "/static/media/countdown.6aa2b8ad.png",
+    "static/media/distance-two-locations.386e1a9c.jpg": "/static/media/distance-two-locations.386e1a9c.jpg",
+    "static/media/draw.afe4e569.png": "/static/media/draw.afe4e569.png",
+    "static/media/geolocation-api.a10d8bed.jpg": "/static/media/geolocation-api.a10d8bed.jpg",
+    "static/media/info.df517275.png": "/static/media/info.df517275.png",
+    "static/media/javazol.e25d03c0.png": "/static/media/javazol.e25d03c0.png",
+    "static/media/linkedIn-icon.68ac41e1.png": "/static/media/linkedIn-icon.68ac41e1.png",
+    "static/media/logo.bc2f23a6.png": "/static/media/logo.bc2f23a6.png",
+    "static/media/searchgit.b4c992bd.png": "/static/media/searchgit.b4c992bd.png",
+    "static/media/suitcase.e14b0bb3.png": "/static/media/suitcase.e14b0bb3.png",
+    "static/media/svg-advantages-and-disadvantages.22116676.jpg": "/static/media/svg-advantages-and-disadvantages.22116676.jpg",
+    "static/media/zolgit.42c12e13.png": "/static/media/zolgit.42c12e13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdf27150.js",
+    "static/js/2.2b3bcc7b.chunk.js",
+    "static/css/main.025ba3ab.chunk.css",
+    "static/js/main.90f9ef21.chunk.js"
+  ]
+}
