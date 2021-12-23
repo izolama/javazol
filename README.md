@@ -3,10 +3,8 @@
 This is a search personal engine website simulating Google Search. Built with ReactJS.
 
 
-<kbd>
-<img src="![image](https://user-images.githubusercontent.com/55181621/147237510-4372548f-7dc7-4ebf-9413-2c7ff419be4d.png)
-"  />
- </kbd>
+![image](https://user-images.githubusercontent.com/55181621/147237510-4372548f-7dc7-4ebf-9413-2c7ff419be4d.png)
+
 
 ### Usage
 ```
